@@ -12,5 +12,5 @@ then you can press TAB to expand it, see images below:<br>
 # Emmet abbreviation recognized<br>
 <img src="/img/1.emmet-before.png" alt="Emmet abbreviation recognized"><br>
 # Emmet abbreviation expanded<br>
-<img src="/img/2.emet-after.png" alt="Emmet abbreviation expanded"><br>
+<img src="/img/2.emmet-after.png" alt="Emmet abbreviation expanded"><br>
 
