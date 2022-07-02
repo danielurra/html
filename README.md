@@ -1,7 +1,7 @@
 # HTML
 We certainly always try to speed up the creation of code, two of the most commonly used methods<br>
 we use are:<br>
-* tweak/Re-use code<br>
+* Adapt/Tweak/Re-use code<br>
 * Emmet abbreviations that expands on full code/code snippets<br>
 
 If the only option we have is to create code starting from the scratch, then Emmet is the tool to be used<br>
