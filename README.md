@@ -8,7 +8,9 @@ If the only option we have is to create code starting from the scratch, then Emm
 Emmet is and Add-on available for several text editors (Vscode, Sublime, Atom, etc.)<br>
 It's already included on Vscode so everytime a valid abbreviation (built-in/custom) is recognized<br>
 you'll see kind of a suggestion telling you that a Emmet abbreviation is available<br>
-then you can press TAB to expand it, see images below:
+then you can press TAB to expand it, see images below:<br>
+# Emmet abbreviation recognized<br>
 <img src="/img/1.emmet-before.png" alt="Emmet abbreviation recognized"><br>
+# Emmet abbreviation expanded<br>
 <img src="/img/2.emet-after.png" alt="Emmet abbreviation expanded"><br>
 
