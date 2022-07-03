@@ -23,7 +23,27 @@ The following example shows how to speed up CSS flexbox creation using Emmet<br>
 # Copy the code<br>
 Emmet custom abbreviation:<br>
 `div#fl_bx_ctainer.flexbox-container>div#fl_bx_i$.flexbox-itemi$*3{$}`<br>
-# style.css file:<br>
+# index.html<br>
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Flexbox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="fl_bx_ctainer" class="flexbox-container">
+        <div id="fl_bx_i1" class="flexbox-item i1">Box 1</div>
+        <div id="fl_bx_i2" class="flexbox-item i2">Box 2</div>
+        <div id="fl_bx_i3" class="flexbox-item i3">Box 3</div>
+    </div>
+</body>
+</html>
+```
+# style.css<br>
 ```CSS
 .flexbox-container{
 	background-color: rgb(242, 242, 232);
@@ -54,25 +74,5 @@ Emmet custom abbreviation:<br>
 .i3 {
     min-height: 250px;
 }
-```
-# index.html file:<br>
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSS Flexbox</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div id="fl_bx_ctainer" class="flexbox-container">
-        <div id="fl_bx_i1" class="flexbox-item i1">Box 1</div>
-        <div id="fl_bx_i2" class="flexbox-item i2">Box 2</div>
-        <div id="fl_bx_i3" class="flexbox-item i3">Box 3</div>
-    </div>
-</body>
-</html>
 ```
 
