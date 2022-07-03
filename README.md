@@ -20,7 +20,7 @@ https://docs.emmet.io/cheat-sheet/<br>
 # CSS Flexbox with Emmet<br>
 The following example shows how to speed up CSS flexbox creation using Emmet<br>
 <img src="/css-flexbox-emmet/css-flexbox-emmet.png" alt="Emmet abbreviation expanded"><br>
-# Emmet abbreviation recognized<br>
+# Copy the code<br>
 Emmet custom abbreviation:<br>
 `div#fl_bx_ctainer.flexbox-container>div#fl_bx_i$.flexbox-itemi$*3{$}`
 CSS code:<br>
