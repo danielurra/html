@@ -13,4 +13,8 @@ then you can press TAB to expand it, see images below:<br>
 <img src="/img/1.emmet-before.png" alt="Emmet abbreviation recognized"><br>
 # Emmet abbreviation expanded<br>
 <img src="/img/2.emmet-after.png" alt="Emmet abbreviation expanded"><br>
+# Emmet cheat Sheet<br>
+A complete list of Emmet's abbreviations can be found in the official website available at:<br>
+https://docs.emmet.io/cheat-sheet/<br>
+<img src="/img/2.emmet-cheatsheet.png" alt="Emmet abbreviation expanded"><br>
 
