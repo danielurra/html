@@ -17,4 +17,7 @@ then you can press TAB to expand it, see images below:<br>
 A complete list of abbreviations can be found in Emmet's official website available at:<br>
 https://docs.emmet.io/cheat-sheet/<br>
 <img src="/img/3.emmet-cheatsheet.png" alt="Emmet abbreviation expanded"><br>
+# CSS Flexbox with Emmet<br>
+The following example shows how to speed up CSS flexbox creation using Emmet<br>
+
 
