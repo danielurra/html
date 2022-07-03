@@ -76,3 +76,7 @@ Emmet custom abbreviation:<br>
 }
 ```
 
+# Video demonstration
+
+https://user-images.githubusercontent.com/51704179/177052582-a5852939-5f1c-412d-90c4-dd0dfe01449c.mp4
+
