@@ -20,5 +20,36 @@ https://docs.emmet.io/cheat-sheet/<br>
 # CSS Flexbox with Emmet<br>
 The following example shows how to speed up CSS flexbox creation using Emmet<br>
 <img src="/css-flexbox-emmet/css-flexbox-emmet.png" alt="Emmet abbreviation expanded"><br>
+```CSS
+.flexbox-container{
+	background-color: rgb(242, 242, 232);
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.flexbox-item{
+    width: 15%;
+    background-color: rgba(85, 85, 88, 0.2);
+    border: 5px solid #090909;
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+}
+
+.i1 {
+    min-height: 50px;
+}
+
+.i2 {
+    min-height: 100px;
+}
+
+.i3 {
+    min-height: 250px;
+}
+```
 
 
