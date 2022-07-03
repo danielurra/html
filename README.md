@@ -23,7 +23,7 @@ The following example shows how to speed up CSS flexbox creation using Emmet<br>
 # Copy the code<br>
 Emmet custom abbreviation:<br>
 `div#fl_bx_ctainer.flexbox-container>div#fl_bx_i$.flexbox-itemi$*3{$}`<br>
-# CSS code:<br>
+# style.css file:<br>
 ```CSS
 .flexbox-container{
 	background-color: rgb(242, 242, 232);
@@ -55,7 +55,7 @@ Emmet custom abbreviation:<br>
     min-height: 250px;
 }
 ```
-# Html code:<br>
+# index.html file:<br>
 ```html
 <!DOCTYPE html>
 <html lang="en">
