@@ -19,6 +19,6 @@ https://docs.emmet.io/cheat-sheet/<br>
 <img src="/img/3.emmet-cheatsheet.png" alt="Emmet abbreviation expanded"><br>
 # CSS Flexbox with Emmet<br>
 The following example shows how to speed up CSS flexbox creation using Emmet<br>
-<img src="/img/3.emmet-cheatsheet.png" alt="Emmet abbreviation expanded"><br>
+<img src="/css-flexbox-emmet/css-flexbox-emmet.png" alt="Emmet abbreviation expanded"><br>
 
 
